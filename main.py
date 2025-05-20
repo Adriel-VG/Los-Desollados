@@ -19,4 +19,4 @@ while True:
     else:
         print("Opción no válida. Intenta de nuevo.")
 
-print("")
+print("x")
